@@ -74,6 +74,7 @@ body{
 .form-group i{
     position: absolute;
     right: 10px;
+    left: auto;
     top: 50%;
     cursor: pointer;
     transform: translateY(-50%);
